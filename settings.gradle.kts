@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppCompose"
+rootProject.name = "ClienteFirebaseRoman"
 include(":app")
